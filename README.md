@@ -59,7 +59,7 @@ Pop-up agradável e temático para confirmar a remoção de produtos.
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/sugarboard.git
+   git clone https://github.com/NicoleOG12/sugarboard.git
 2. Instale as dependências:
    ```bash
    npm install
